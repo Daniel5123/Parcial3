@@ -3,6 +3,7 @@
 Practica basada en la aplicacion de dualingo.
 
 Esta aplicaion te ayudara a aprender mas sobre Programacion, el programa empieza con el menu y los diferentes niveles que hay.
+
 ![Captura de pantalla 2024-04-16 015147](https://github.com/Daniel5123/a/assets/156048599/82be447c-0f8a-4e35-961b-4832f2343196)
 
 Al seleccionar algun nivel en este aparecera una ventana la cual dira que tipo de leccion es y cuantas preguntas hay, en total hay 5 lecciones y al presioanr cada boton te ira diciendo cual leccion es.
