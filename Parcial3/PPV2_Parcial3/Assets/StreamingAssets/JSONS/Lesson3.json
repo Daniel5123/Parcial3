@@ -1,0 +1,65 @@
+{
+  "Lesson": 3,
+  "leccionList": [
+    {
+      "ID": 11,
+      "lessons": "¿Cuál es el propósito principal de Unity Hub?",
+      "options": [
+        "Poder ayudar al desarrollo de Videojuegos",
+        "Crear modelos 3D",
+        "Generar efectos de sonido",
+        "Optimizar el rendimiento de las aplicaciones",
+        "Dibujar gráficos vectoriales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 12,
+      "lessons": "¿Qué función cumple el Unity Editor en el desarrollo de juegos?",
+      "options": [
+        "Editar videos",
+        "Gestionar bases de datos",
+        "Crear interfaces de usuario",
+        "Desarrollar y editar juegos y aplicaciones en Unity",
+        "Realizar cálculos matemáticos avanzados"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 13,
+      "lessons": "¿Para qué se utiliza Unity Profiler?",
+      "options": [
+        "Crear modelos 3D",
+        "Analizar el rendimiento de las aplicaciones Unity",
+        "Dibujar gráficos vectoriales",
+        "Gestionar recursos de audio",
+        "Programar comportamientos de inteligencia artificial"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 14,
+      "lessons": "¿Cuál es la función principal del Unity Test Framework?",
+      "options": [
+        "Crear gráficos",
+        "Probar y realizar pruebas automatizadas en proyectos de Unity",
+        "Editar texturas",
+        "Diseñar interfaces de usuario",
+        "Optimizar el rendimiento de los juegos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 15,
+      "lessons": "¿Qué permite hacer el Unity Profiler en un proyecto de Unity?",
+      "options": [
+        "Detectar errores de sintaxis",
+        "Analizar el rendimiento y la optimización de recursos",
+        "Generar modelos 3D automáticamente",
+        "Crear interfaces de usuario personalizadas",
+        "Gestionar bases de datos"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

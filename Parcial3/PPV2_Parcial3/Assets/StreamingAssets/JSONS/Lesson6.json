@@ -1,0 +1,65 @@
+{
+  "Lesson": 6,
+  "leccionList": [
+    {
+      "ID": 26,
+      "lessons": "¿Qué se muestra en la ventana Scene de Unity?",
+      "options": [
+        "El código fuente de los scripts",
+        "Una vista en tiempo real de la escena del juego",
+        "Una lista de archivos del proyecto",
+        "Una consola de mensajes de depuración",
+        "Una herramienta de diseño de interfaces de usuario"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 27,
+      "lessons": "¿Para qué se utiliza la ventana Hierarchy en Unity?",
+      "options": [
+        "Crear modelos 3D",
+        "Editar la configuración del proyecto",
+        "Organizar y visualizar la jerarquía de GameObjects en la escena",
+        "Dibujar gráficos vectoriales",
+        "Programar comportamientos de inteligencia artificial"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 28,
+      "lessons": "¿Qué función cumple la ventana Inspector en Unity?",
+      "options": [
+        "Crear interfaces de usuario",
+        "Detectar colisiones",
+        "Editar las propiedades y componentes de un GameObject seleccionado",
+        "Optimizar el rendimiento de las aplicaciones",
+        "Generar efectos de sonido"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 29,
+      "lessons": "¿Cuál es el propósito de la ventana Project en Unity?",
+      "options": [
+        "Generar partículas",
+        "Editar modelos 3D",
+        "Organizar y visualizar los archivos y assets del proyecto",
+        "Controlar la iluminación en la escena",
+        "Crear animaciones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 30,
+      "lessons": "¿Qué se puede hacer desde la ventana Game en Unity?",
+      "options": [
+        "Compilar el juego final",
+        "Editar la configuración del proyecto",
+        "Visualizar la vista previa del juego en tiempo real",
+        "Crear modelos 3D",
+        "Controlar la reproducción de audio"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Lesson": 5,
+  "leccionList": [
+    {
+      "ID": 21,
+      "lessons": "¿Qué función cumple el componente Light en Unity?",
+      "options": [
+        "Generar sombras",
+        "Reproducir música de fondo",
+        "Controlar la interfaz de usuario",
+        "Crear animaciones",
+        "Controlar la iluminación en la escena"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "ID": 22,
+      "lessons": "¿Para qué se utiliza el componente Rigidbody2D en Unity?",
+      "options": [
+        "Crear animaciones",
+        "Aplicar física 2D a un GameObject",
+        "Detectar colisiones 2D",
+        "Generar partículas",
+        "Controlar la reproducción de audio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 23,
+      "lessons": "¿Cuál es el propósito del componente BoxCollider en Unity?",
+      "options": [
+        "Generar sombras",
+        "Crear modelos 3D",
+        "Detectar colisiones",
+        "Controlar la interfaz de usuario",
+        "Optimizar el rendimiento de las aplicaciones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 24,
+      "lessons": "¿Qué función cumple el componente ParticleSystem en Unity?",
+      "options": [
+        "Controlar la interfaz de usuario",
+        "Crear efectos visuales de partículas",
+        "Generar partículas de audio",
+        "Detectar colisiones",
+        "Crear modelos 3D"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 25,
+      "lessons": "¿Para qué se utiliza el componente NavMeshAgent en Unity?",
+      "options": [
+        "Generar sombras",
+        "Crear animaciones",
+        "Controlar la inteligencia artificial de navegación",
+        "Detectar colisiones",
+        "Optimizar el rendimiento de las aplicaciones"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

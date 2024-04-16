@@ -1,0 +1,63 @@
+{
+  "Lesson": 2,
+  "leccionList": [
+    {
+      "ID": 6,
+      "lessons": "¿Como pones comentarios?",
+      "options": [
+        "??",
+        "//",
+        "!!",
+        "**",
+        "::"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 7,
+      "lessons": "¿Que es un comentario en Programacion?",
+      "options": [
+        "Un archivo de audio",
+        "Un mensaje dirigido a otro programadores",
+        "Un GameObject",
+        "Comandos",
+        "Un archivo de configuración"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 8,
+      "lessons": "¿Qué es una condición en programación??",
+      "options": [
+        "Un valor que siempre es verdadero",
+        "Una instrucción que se ejecuta repetidamente",
+        "Una evaluación que determina si se ejecuta un bloque de código",
+        "Una variable que almacena un número entero"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 9,
+      "lessons": "¿Qué es un booleano en programación?",
+      "options": [
+        "Un número entero",
+        "Un valor que puede ser verdadero o falso",
+        "Una cadena de caracteres",
+        "Un tipo de bucle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 10,
+      "lessons": "¿Qué es el componente Collider en Unity?",
+      "options": [
+        "Una herramienta de iluminación",
+        "Un sistema de partículas",
+        "Un controlador de cámara",
+        "Un componente para detectar colisiones",
+        "Un sistema de física"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}
