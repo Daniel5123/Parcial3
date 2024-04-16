@@ -6,6 +6,7 @@ Esta aplicaion te ayudara a aprender mas sobre Programacion, el programa empieza
 ![Captura de pantalla 2024-04-16 015147](https://github.com/Daniel5123/a/assets/156048599/82be447c-0f8a-4e35-961b-4832f2343196)
 
 Al seleccionar algun nivel en este aparecera una ventana la cual dira que tipo de leccion es y cuantas preguntas hay, en total hay 5 lecciones y al presioanr cada boton te ira diciendo cual leccion es.
+
 ![Captura de pantalla 2024-04-16 015153](https://github.com/Daniel5123/a/assets/156048599/a74fe29b-fc87-451e-a76f-876a33046fe5)
 ![Captura de pantalla 2024-04-16 015158](https://github.com/Daniel5123/a/assets/156048599/c7f4b03e-8449-41fc-a68d-027637819673)
 
